@@ -1,0 +1,19 @@
+# Stage 1 image preprocessing (PyTorch ecosystem)
+torch
+torchvision
+fastapi
+uvicorn[standard]
+python-multipart
+Pillow
+numpy
+
+# PDF extraction with positional text grouping to preserve correctly spaced words.
+pdfplumber
+
+# Stage 3 RAG embeddings and local vector index
+sentence-transformers
+faiss-cpu
+
+# Stage 4 grounded advisory generation and conversation memory
+langchain
+langchain-google-genai

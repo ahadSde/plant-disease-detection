@@ -1,0 +1,8 @@
+# The trained checkpoint, document corpus, and FAISS index are selected
+# explicitly in the Dockerfile.  The 54k-image training corpus is not needed
+# by inference and would make the runtime image unnecessarily large.
+data/plantvillage/
+__pycache__/
+*.py[cod]
+.DS_Store
+.git/

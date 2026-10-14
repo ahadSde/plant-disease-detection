@@ -1,0 +1,21 @@
+# Local secrets
+.env
+node_modules/
+**/target/
+frontend/dist/
+backend/uploads/
+
+# Large datasets and source documents
+ai-service/data/plantvillage/
+ai-service/data/tomato_realworld_raw/
+ai-service/data/agri_docs/
+
+# Generated model outputs and RAG index
+ai-service/outputs/*.pt
+ai-service/outputs/*.json
+ai-service/rag/vector_store/
+
+# Python generated files
+__pycache__/
+*.py[cod]
+.DS_Store

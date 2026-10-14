@@ -1,0 +1,15 @@
+{
+  "agriculture_diseases_tnau.pdf": {"coverage": [], "partial_coverage": [], "note": "Broad supplementary reference, not an exact disease-class reference."},
+  "apple_scab_tnau.pdf": {"coverage": ["Apple___Apple_scab"], "partial_coverage": [], "note": "Exact match."},
+  "citrus_greening_tnau.pdf": {"coverage": ["Orange___Haunglongbing_(Citrus_greening)"], "partial_coverage": [], "note": "Exact match."},
+  "potato_early_blight_tnau.pdf": {"coverage": ["Potato___Early_blight"], "partial_coverage": [], "note": "Exact match."},
+  "tomato_early_blight_tnau.pdf": {"coverage": ["Tomato___Early_blight"], "partial_coverage": [], "note": "Exact match."},
+  "tomato_fruit_canker_tnau.pdf": {"coverage": [], "partial_coverage": ["Tomato___Bacterial_spot"], "note": "Partial only: tomato bacterial canker is not tomato bacterial spot."},
+  "tomato_late_blight_tnau.pdf": {"coverage": ["Tomato___Late_blight"], "partial_coverage": [], "note": "Exact match."},
+  "tomato_leaf_curl_tnau.pdf": {"coverage": ["Tomato___Tomato_Yellow_Leaf_Curl_Virus"], "partial_coverage": [], "note": "Exact match."},
+  "tomato_septoria_leaf_spot_tnau.pdf": {"coverage": ["Tomato___Septoria_leaf_spot"], "partial_coverage": [], "note": "Exact match."},
+  "tomato_target_spot.pdf": {"coverage": ["Tomato___Target_Spot"], "partial_coverage": [], "note": "Exact match. Source: Lucid Apps Pest & Disease Image Library (non-TNAU source family)."},
+  "tomato_spider_mites.pdf": {"coverage": ["Tomato___Spider_mites Two-spotted_spider_mite"], "partial_coverage": [], "note": "Exact match. Source: Utah State University Extension (non-TNAU university-extension source)."},
+  "tomato_mosaic_virus.pdf": {"coverage": ["Tomato___Tomato_mosaic_virus"], "partial_coverage": [], "note": "Exact match. Source: Utah State University Extension (non-TNAU university-extension source)."},
+  "tomato_leaf_mold.pdf": {"coverage": ["Tomato___Leaf_Mold"], "partial_coverage": [], "note": "Exact match. Source: Lucid Apps Pest & Disease Image Library (non-TNAU source family)."}
+}
